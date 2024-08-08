@@ -324,10 +324,10 @@ Vip :
 > After Attack Limit : 2 Min
 -> Concurrents Attack : 300
 
-Pr-ice List:
-Day-->110 Rs
-Week-->500 Rs
-Month-->1200 Rs
+Price List:
+Day-->40 Rs
+Week-->150 Rs
+Month-->500 Rs
 By TORONTO JATT @jatt_agya
 '''
     bot.reply_to(message, response)
